@@ -1,5 +1,5 @@
 const config = {
-    apiPath: "http://localhost:3004",
+    apiPath: "https://minipos-api-r39d.onrender.com",
     headers: () => {
         return {
             headers: {
